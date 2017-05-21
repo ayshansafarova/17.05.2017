@@ -1,0 +1,20 @@
+.main{
+	width: 300px;
+	height: 400px;
+	background: aqua;
+	display: inline-block;
+	margin: 20px;
+	border: 2px solid lightblue;
+
+
+}
+
+.main>div{
+	width: 100px;
+	height: 150px;
+	background: lightgreen;
+	padding: 30px;
+	border: 2px solid green;
+	margin: 20px 20px 50px 50px;
+
+}
